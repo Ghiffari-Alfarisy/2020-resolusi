@@ -3,3 +3,4 @@ Rencana olahraga:
 -Data progres olahraga mingguan
 -plank
 -push up
+-sepeda
